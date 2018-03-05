@@ -1,9 +1,0 @@
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\Install.ps1
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\Jump.Location.dll
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\Jump.Location.Format.ps1xml
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\Jump.Location.psd1
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\License.md
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\Load.ps1
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\Readme.md
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\TabExpansion.ps1
-C:\ProgramData\chocolatey\lib\Jump-Location.0.6.0\tools\Types.ps1xml
